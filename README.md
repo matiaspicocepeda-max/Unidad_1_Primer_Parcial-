@@ -1,6 +1,6 @@
 # Unidad 1 - Primer Parcial
 
-Bienvenido al repositorio de Matías Pico. Aquí se agrupan los trabajos, deberes, actividades prácticas y evaluaciones correspondientes a la **Unidad 1** del primer parcial académico.
+Bienvenido al repositorio de Matías Pico. Aquí se agrupan los trabajos, deberes, actividades prácticas y evaluaciones correspondientes a la **Unidad 1 y 2** del primer parcial académico.
 
 ---
 
